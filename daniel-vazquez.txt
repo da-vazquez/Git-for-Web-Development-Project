@@ -130,4 +130,4 @@ https://codepen.io/da-vazquez/pen/YzqmdMW
     We log into our person account on Github and click on the link for Lambda's assignment. We will then fork and clone the project and create a branch on our terminal. After we have completed all of our tasks for that project, we will add our commit/add commands in terminal. We will then push our branch to github and create a pull request using our personal fork
 
 
-
+    stretch
